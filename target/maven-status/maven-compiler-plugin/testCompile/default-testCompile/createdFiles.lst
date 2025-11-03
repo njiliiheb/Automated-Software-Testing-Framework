@@ -1,0 +1,12 @@
+StepDefinitions\Steps3.class
+StepDefinitions\spamkick.class
+StepDefinitions\Steps2.class
+StepDefinitions\Steps5.class
+utils\ReportGenerator.class
+Runners\TestRun.class
+StepDefinitions\Steps6.class
+utils\EmailReport$1.class
+StepDefinitions\Steps.class
+StepDefinitions\Steps4.class
+StepDefinitions\Steps7.class
+utils\EmailReport.class
