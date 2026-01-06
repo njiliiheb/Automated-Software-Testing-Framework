@@ -23,9 +23,9 @@ public class TestRun {
     public static void run() throws MessagingException, IOException {
         ReportGenerator.generateCucumberReport();
         String host = "smtp.gmail.com";
-        String port = "587"; //
+        String port = "000"; //
         String userName = "ihebnjili1@gmail.com";
-        String password = "javu klnc alxk tvxq";
+        String password = "000000000000";
         String[] toAddresses = {"ihebnjili20@gmail.com", "ihebnjili00@gmail.com"};
 
         String subject = "Test Report";
